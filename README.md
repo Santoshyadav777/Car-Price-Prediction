@@ -1,2 +1,2 @@
-# ML-projects
-Machine learning projects.
+# Car-Price-prediction
+Machine learning project.
